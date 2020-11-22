@@ -1,6 +1,6 @@
 {
-  "username": "Patriota", "El profundo", "Translucido"
-  "score": 300, 500, 100
-  "image": "https://raw.githubusercontent.com/martinezguu/LorApi/main/HeroesImg/heroe1.png", "https://raw.githubusercontent.com/martinezguu/LorApi/main/HeroesImg/heroe2.png",
-  "https://raw.githubusercontent.com/martinezguu/LorApi/main/HeroesImg/heroe3.png"
+  "username": [ "Patriota", "El profundo", "Translucido" ]
+  "score": [ 300, 500, 100 ]
+  "image": [ "https://raw.githubusercontent.com/martinezguu/LorApi/main/HeroesImg/heroe1.png", "https://raw.githubusercontent.com/martinezguu/LorApi/main/HeroesImg/heroe2.png",
+  "https://raw.githubusercontent.com/martinezguu/LorApi/main/HeroesImg/heroe3.png" ]
  }
