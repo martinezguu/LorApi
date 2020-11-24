@@ -1,7 +1,7 @@
-[{"username":"Patriota","score":"500", level:"50", "image":"1"}
-,{"username":"Negro Oscuro","score":"30000", level:"510","image":"2"}
-,{"username":"El Profundo","score":"100", level:"350","image":"2"}
-,{"username":"Luz Esteler","score":"250", level:"5","image":"3"}
-,{"username":"Reina Maeve","score":"3000", level:"6","image":"1"}
-,{"username":"A Tren","score":"700", level:"72", image":"2"}
+[{"username":"Patriota","score":"500", "level":"50", "image":"1"}
+,{"username":"Negro Oscuro","score":"30000", "level":"510","image":"2"}
+,{"username":"El Profundo","score":"100", "level":"350","image":"2"}
+,{"username":"Luz Esteler","score":"250", "level":"5","image":"3"}
+,{"username":"Reina Maeve","score":"3000", "level":"6","image":"1"}
+,{"username":"A Tren","score":"700", "level":"72", "image":"2"}
 ,{"username":"Translucido","score":"420", "level":"72","image":"0"}] 
